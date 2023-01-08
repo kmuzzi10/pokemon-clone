@@ -1,0 +1,415 @@
+#qaz {
+    padding-left: 30px;
+    box-shadow: 5px 5px 5px;
+
+}
+
+#za {
+    padding-left: 80px;
+
+}
+
+#za:hover {
+    background-color: orangered;
+}
+
+.a {
+    background-color: black;
+    height: 3700px;
+    width: 100%;
+}
+
+.b {
+    width: 90%;
+    margin: 10px auto;
+    height: 3170px;
+    background-image: url("bg.jpeg");
+}
+
+.c {
+    background-color: white;
+    margin: 10px auto;
+    height: 900px;
+    width: 80%;
+}
+
+.a1 {
+    margin-left: 12%;
+
+
+}
+
+.navbar1 {
+    display: flex;
+    padding-bottom: 100px;
+    padding-right: 90px;
+    height: 130px;
+
+}
+
+.text1 {
+    box-shadow: 10px 15px 10px 9px grey;
+}
+
+.home {
+
+    padding: 40px;
+    padding-bottom: 100px;
+
+
+}
+
+#shad1 {
+    box-shadow: 0px 5px 10px 5px grey;
+}
+
+#shad2 {
+    box-shadow: 0px 5px 10px 5px grey;
+}
+
+#shad2:hover {
+    background-color: orangered;
+}
+
+#shad3 {
+    box-shadow: 0px 5px 10px 5px grey;
+}
+
+#shad3:hover {
+    background-color: orangered;
+}
+
+#shad4 {
+    box-shadow: 0px 5px 10px 5px grey;
+}
+
+#shad4:hover {
+    background-color: #e6bc2f;
+}
+
+#shad5 {
+    box-shadow: 0px 5px 10px 5px grey;
+}
+
+#shad5:hover {
+    background-color: #4dad5b;
+}
+
+#shad6 {
+    box-shadow: 0px 5px 10px 5px grey;
+}
+
+#shad6:hover {
+    background-color: #206d91;
+}
+
+#shad7 {
+    box-shadow: 0px 5px 10px 5px grey;
+}
+
+#shad7:hover {
+    background-color: #1b53ba;
+}
+
+.text {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.d {
+    display: flex;
+    padding-top: 60px;
+}
+
+.card1 {
+    width: 80%;
+    height: 550px;
+    background-color: #855ac9;
+}
+
+.card-2 {
+    margin-left: 10px;
+    width: 40%;
+    height: 140px;
+    background-color: #1b53ba;
+}
+
+#bcol {
+    color: white;
+}
+
+#texth {
+    font-size: x-large;
+    color: white;
+}
+
+.ctext {
+    color: black;
+}
+
+.card-3 {
+    margin-top: 25px;
+    height: 280px;
+    background-color: #e6bc2f;
+    color: white;
+    font-size: large;
+
+
+}
+
+.card-4 {
+    margin-top: 25px;
+    width: 100%;
+
+    background-color: #4dad5b;
+}
+
+#textb {
+    font-size: larger;
+    color: white;
+}
+
+.card-pack {
+    margin-top: 10px;
+    width: 90%;
+    margin-left: 20px;
+
+}
+
+.card-5 {
+    margin: 10px auto;
+    height: 270px;
+    background-color: #b89355;
+    opacity: 0.8;
+    color: white;
+}
+
+.card-6 {
+
+    color: white;
+    margin: 10px auto;
+    height: 270px;
+    background-color: orangered;
+    opacity: 0.9;
+}
+
+.slider {
+    width: 100%;
+    height: 500px;
+    background-color: black;
+}
+
+#featuredpokemon {
+    margin-left: 100px;
+    margin-top: 49px;
+}
+
+#b1 {
+    margin-top: 60px;
+    margin-left: 800px;
+    background-color: black;
+    color: white;
+
+}
+
+.e {
+    background-color: white;
+
+    width: 75%;
+    height: 1500px;
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 140px;
+    padding-top: 50px;
+}
+
+.card-e1 {
+    margin-top: 50px;
+    background-color: #e6bc2f;
+
+
+
+
+}
+
+.card-e2 {
+    background-color: #4dad5b;
+    margin-bottom: 10px;
+
+
+
+}
+
+.card-e3 {
+    margin-top: 30px;
+    background-color: #855ac9;
+
+
+
+
+
+}
+
+#text {
+    color: white;
+}
+
+.g {
+    margin-top: 80px;
+}
+
+/* #xx
+{
+    background-image: url(bg22.PNG);
+    width: 3%;
+} */
+.card-e4 {
+    background-color: #206d91;
+}
+
+.card-e5 {
+    background-color: burlywood;
+    margin-top: 110px;
+}
+
+.card-e6 {
+    background-color: #919191;
+    margin-top: 30px;
+}
+
+#view {
+    padding-top: 10px;
+    margin-top: 10px;
+    font-size: medium;
+    background-color: orangered;
+}
+
+#keep {
+    font-size: medium;
+    margin-bottom: -10px;
+}
+
+.card-e7 {
+    margin-top: 100px;
+    margin-left: 570px;
+    border: none;
+}
+.cards1{
+    margin-left: -14px;
+}
+
+.footer {
+    margin: 10px auto;
+    padding-top: 150px;
+    /* margin-top: 100px;
+    margin-right: 100px; */
+    
+}
+
+.col-1 {
+    margin-left: 15%;
+    color: white;
+    width: 30%;
+    height: 200px;
+    padding: 20px auto;
+
+}
+
+.col-2 {
+    width: 280px;
+    height: 120px;
+  
+    position: relative;
+    left: 43%;
+    top: -390px;
+
+}
+
+.col-2 li {
+    display: inline-block;
+    margin-left: 1px;
+}
+
+.line-1 {
+    border-left: 2px solid white;
+    height: 200px;
+    position: relative;
+    left: 500px;
+    top: -190px;
+}
+.line-2{
+    border-left: 2px solid white;
+    height: 200px;
+    position: relative;
+    left: 750px;
+    top: -510px;
+}
+.col-3 {
+ 
+    color: white;
+   position: relative;
+   left: 760px;
+   top: -720px;
+
+}
+
+.col-3>ul {
+    position: relative;
+    left: 50%;
+    top: -65px;
+    list-style: none;
+}
+
+.col-3>p {
+    position: relative;
+    top: -60px;
+}
+.stick
+{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.cardh1:hover{
+    background-color: #693cb3;
+}
+.cardh2:hover{
+    background-color: #0c49bb;
+}
+.cardh3:hover{
+    background-color: #d1a515;
+}
+.cardh4:hover{
+    background-color: #2dc243;
+}
+.cardh5:hover{
+    background-color: #646262;
+}
+.cardh6:hover{
+background-color: rgb(255, 83, 21);
+}
+.card-ee1:hover
+{
+background-color: #ecb709;
+}
+.card-ee2:hover
+{
+background-color: #07ac1f;
+}
+.card-ee3:hover
+{
+background-color: #542e91;
+}
+.card-ee4:hover
+{
+background-color: #083a96;
+}
+.card-ee5:hover
+{
+background-color: #a77f3c;
+}
+.card-ee6:hover{
+    background-color: #868383;
+}
